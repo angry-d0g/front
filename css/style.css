@@ -1,0 +1,139 @@
+
+body{
+    background-color: rgb(250, 241, 229);
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
+.card{
+    height: auto;
+    width: 500px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.card-header{
+    width: 500px;
+    height: 280px;
+    color: white;
+    background-image: url("..//img/овцы.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    
+    
+    
+
+}
+.bolt{
+    padding-top: 20%;
+    font-weight: 700;
+} 
+
+
+
+header{
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+header img{
+    height: 150px;
+    text-align: center;
+    
+}
+header p{
+    color: rgb(96, 107, 103);
+    margin-top: 30px;
+}
+
+.title{
+    margin-top: 10px;
+    padding: 20px;
+    font-weight: 700;
+}
+
+
+.left_card{
+    display: inline-block;
+    width: 226px;
+    
+}
+
+.more{
+    margin-top: -130px;
+    text-align: center;
+    color: white;
+}
+
+.green{
+    margin-top: 80px;
+    color: green;
+    padding-bottom: 10px;
+}
+
+.right_card{
+    margin-left: 10px;
+    display: inline-block;
+    width: 226px;
+    
+}
+
+.bottom_card{
+    
+    
+    margin: 25px;
+}
+
+.bottom_card .bolt{
+    padding-top: 0px;
+}
+
+.bottom_card .green{
+    margin-top: 120px;
+}
+
+.left{
+    text-align: left;
+}
+hr{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+header hr{
+    
+}
+footer{
+    
+}
+
+.info{
+    display: inline-block;
+    text-align: left;
+}
+.bolt_text{
+    
+    font-weight: 700;
+    
+}
+.social{
+    display: inline-block;
+    margin-top: -100px;
+}
+.social i{
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+.social a{
+    background-color: blue;
+    border-radius: 15%;
+    margin: 0 3px 0 3px;
+    font-size: 20px;
+    text-align: center;
+    
+}
